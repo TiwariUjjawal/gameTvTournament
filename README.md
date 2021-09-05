@@ -7,6 +7,7 @@
 * User Authentication
 * Pagenation in Api calls.
 * App icon added.
+* Checking Internet connection.
 
 
 #### Authentication Screen:
@@ -15,3 +16,11 @@
 
 #### Home Screen:
 [![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-09-05-at-17-25-22.png](https://i.postimg.cc/hPrzvDp6/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-09-05-at-17-25-22.png)](https://postimg.cc/8j7PnS8m) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-09-05-at-17-25-33.png](https://i.postimg.cc/mrFgYByb/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-09-05-at-17-25-33.png)](https://postimg.cc/f3DsZ4PF)
+
+
+
+#### How to run app:
+
+* Create an account by providing valid username and password.
+* On Home Screen all the tournaments are listed.
+* User can logout also by pressing three dot icon on top right then selecting "Logout".
